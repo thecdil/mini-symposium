@@ -2,7 +2,7 @@
 
 > May 19th - 21th, 2020 - Meeting Online
 
-Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) | [4](day-4.md) | [5](day-5.md)
+Outlines: [0](day-0.md) | [1](day-1.md) | [2](day-2.md) | [3](day-3.md) 
 
 ## Symposium Schedule & Outlines
 
