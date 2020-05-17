@@ -1,12 +1,10 @@
 # Digital Publishing: Scalar and Story Maps
 
-> Wednesday, May 15th, 9:00am - 4:00pm, CDSC.
+> Wednesday, May 20th, 10:00am - 12:00pm, CDIL Zoom.
 
 ## Objectives
 
 - explore scholarly publishing platforms
-- photogrammetry and 3D scanning intro and field trip
-- thinking about software as artifact 
 
 ## Outline: 
 

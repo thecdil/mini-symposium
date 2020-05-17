@@ -1,13 +1,12 @@
 # Collections as Data: Web and APIs
 
-> Tuesday, May 14th, 9:00am - 4:00pm, CDIL.
+> Tuesday, May 19th, 10:00am - 12:00pm, CDIL Zoom.
 
 ## Objectives
 
-- Critical understanding of collections as data.
-- Understand the concept of web APIs.
-- Literacy with digital files, data, and metadata.
 - Critical web literacy: `viewsource`, markup languages, and Markdown.
+- Critical understanding of collections as data.
+- Literacy with digital files, data, and metadata.
 
 # Outline:
 
@@ -46,6 +45,8 @@ Please look for a DH project that interests you, then:
     - Sustainability? (how many dead projects have you seen?)
 
 ### Resources 
+
+- [Programming Historian](https://programminghistorian.org/) 
 
 - [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/) (2017)
 - [Collections as Data Resources](https://collectionsasdata.github.io/resources/)

@@ -1,6 +1,6 @@
 # Text as Data: Analysis and Modeling
 
-> Thursday, May 16th, 9:00am - 4:00pm, CDIL.
+> Thursday, May 21th, 1:00pm - 3:00pm, CDIL Zoom.
 
 ## Objectives
 
