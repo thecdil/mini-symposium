@@ -34,6 +34,9 @@ Elements are represented by **tags** using point brackets, `<tag></tag>` that ca
 
 - Doctype declaration: `<!DOCTYPE html>` (officially tells browser that it is an HTML file)
 - Root element: `<html></html>` (all elements of a web page are nested inside the root element)
+- Head: `<head></head>` (provides metadata for the document)
+- Title: `<title></title>` (nested inside the head, you will see it at the top of your browser tab)
+- Body: `<body></body>` (the content to be displayed)
 - Headers: `<h1></h1>`
 - Paragraphs: `<p>text</p>`
     - Lorem ipsum text placeholder: [Lorem Ipsum classic](https://www.lipsum.com/), [Hipster](https://hipsum.co/), [Bacon](https://baconipsum.com/), [Cupcakes](http://www.cupcakeipsum.com/), [Pirate](https://pirateipsum.me/), [Corporate](https://www.cipsum.com/).
@@ -41,6 +44,23 @@ Elements are represented by **tags** using point brackets, `<tag></tag>` that ca
 - Images: `<img src="imagefile">` (the *src* attribute is the path/link to an image file)
     - Find an image on the web (right click "view image")
     - Random image placeholder: [Picsum](https://picsum.photos/) add width and height like `https://picsum.photos/200/300`
+
+Example HTML doc:
+
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example HTML</title>
+    </head>
+    <body>
+        <h1>Header One</h1>
+        <p>Some text in a paragraph.</p>
+        <p>A link to <a href="https://github.com/thecdil/mini-symposium">Symposium</a>.</p>
+        <img src="https://www.lib.uidaho.edu/media/digital/small/ott.jpg">
+    </body>
+</html>
+```
 
 **CSS (presentation / style):**
 
@@ -55,6 +75,35 @@ Elements are represented by **tags** using point brackets, `<tag></tag>` that ca
 
 - Add stuff: `<div id="example"></div>` / `var test = document.getElementById("example"); example.innerHTML = "Some example text.";`
 - Click: `<button id="btn">Click Me</button>` / `var btn = document.getElementById("btn"); btn.addEventListener("click", function() { example.innerHTML = "You clicked the button!"; });`
+
+Full example:
+
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example HTML</title>
+        <style>
+            h1 { color: red; }
+            .big { font-size: 25px; }
+        </style>
+    </head>
+    <body>
+        <h1>Header One</h1>
+        <p>Some text in a paragraph.</p>
+        <p>A link to <a href="https://github.com/thecdil/mini-symposium">Symposium</a>.</p>
+        <div id="example"></div>
+        <button id="btn">Click Me</button>
+        <img src="https://www.lib.uidaho.edu/media/digital/small/ott.jpg">
+        <script>
+            var example = document.getElementById("example"); 
+            example.innerHTML = "Some example text.";
+            var btn = document.getElementById("btn");
+            btn.addEventListener("click", function() { example.innerHTML = "You clicked the button!"; });
+        </script>
+    </body>
+</html>
+```
 
 ## Markdown
 
