@@ -21,8 +21,11 @@ Free, open source cross platform text editor suggestions:
 
 More Background readings:
 
+- Amanda Visconti, ["A Digital Humanities What, Why, & How" (2016)](https://www.hastac.org/blogs/amanda-visconti/2016/07/25/digital-humanities-what-why-how-dlf-eresearch-network-talk)
 - Matthew G. Kirschenbaum, ["What Is Digital Humanities and What’s It Doing in English Departments?" (2010)](https://mkirschenbaum.files.wordpress.com/2011/03/ade-final.pdf)
 - Micah Vandegrift, ["What is Digital Humanities and What's it Doing in the Library" (2012)](http://www.inthelibrarywiththeleadpipe.org/2012/dhandthelib/)
+- Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). [*Digital_Humanities.*](https://mitpress.mit.edu/books/digitalhumanities)
+- Gold, Matthew, & Klein, Lauren (Eds.). (2019). [*Debates in the Digital Humanities 2019.*](https://www.upress.umn.edu/book-division/books/debates-in-the-digital-humanities-2019) 
 
 GitHub intro:
 
