@@ -148,38 +148,60 @@ Workshops/tutorials:
 
 ## DH Projects
 
-- [Kindred Britain](http://kindred.stanford.edu/)
-- [American Panorama](http://dsl.richmond.edu/panorama/)
-- [Republic of Letters](http://republicofletters.stanford.edu/)
-- [Transcribing Bentham](https://blogs.ucl.ac.uk/transcribe-bentham/)
-- [MarineLives](http://www.marinelives.org/wiki/Tools:_Collaboration_with_Transkribus)
-- [Gendered Language in Teacher Reviews](http://benschmidt.org/profGender/)
-- [Walt Whitman Archive](https://whitmanarchive.org/)
-- [Profils 14 18](http://profils-14-18.tv5monde.com/#Introduction)
-- [Slavery's Ephemera: The Contemporary Life of the Antebellum Plantation](http://vectors.usc.edu/projects/index.php?project=56)
-- [Digital Archaeological Archive of Comparative Slavery (DAACS)](https://www.daacs.org/)
-- [OpenContext](https://opencontext.org)
-- [Digital Index of North American Archaeology](http://ux.opencontext.org/archaeology-site-data/)
-- [Native Land](https://native-land.ca/)
+Texts:
+
+- [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/) - classical texts since before the internet!
+- [Walt Whitman Archive](https://whitmanarchive.org/), [Melville Electronic Library](https://melville.electroniclibrary.org/), [Rossetti Archive](http://www.rossettiarchive.org/), [William Blake Archive](http://www.blakearchive.org/), [Newton Project](http://www.newtonproject.ox.ac.uk/) - traditionally canonical authors supported big projects, interesting opportunity to bring together published and archival materials with multimedia and scholarly content.
+- [Eighteenth-Century Poetry Archive](https://www.eighteenthcenturypoetry.org/) - many projects gather together a thematic corpus of text.
+- [Women Writers Project](https://wwp.northeastern.edu/) - some projects seek increase visibility of hidden creators.
+- [Digital Thoreau](https://digitalthoreau.org/) - new ways to open up critical editions.
+- [Frankenbook](https://www.frankenbook.org/) - collaborative reading text.
+- [Visual Haggard](http://www.visualhaggard.org/) - extracting illustrations rather than text.
+
+Digging into the archives:
+
+- [London Lives](https://www.londonlives.org/)
+- [Mining the Dispatch](http://dsl.richmond.edu/dispatch/) - topic modeling fugitive slave ads from the Richmond Dispatch.
 - [Joods Monument](https://www.joodsmonument.nl/)
-- [Plateau Peoples' Web Portal](https://plateauportal.libraries.wsu.edu/)
+- [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
+- [Historic Tale Construction Kit](https://htck.github.io/bayeux/)
+- [17th century death roulette](https://vole.wtf/death-roulette/)
+
+Networks:
+
+- [Victorian Web](http://www.victorianweb.org/index.html) - pre-web hyperlinked text project.
+- [Kindred Britain](http://kindred.stanford.edu/)
+- [Republic of Letters](http://republicofletters.stanford.edu/)
+- [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/)
+
+Mapping:
+
+- [American Panorama](http://dsl.richmond.edu/panorama/)
+- [Native Land](https://native-land.ca/)
 - [Mapping Indigenous LA](https://mila.ss.ucla.edu/)
+- [Mapping Massacres](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
+- [Viral Texts](https://viraltexts.org/), mapping periodical reprinting 19th cent.
+- [Scottish Witches](https://witches.is.ed.ac.uk/)
+- [Chinatown Sound Map](http://chinatownsoundmap.com/about/)
+- [Navigating the Green Book](http://publicdomain.nypl.org/greenbook-map/)
+- [The Garden of Earthly Delights interactive adventure](https://archief.ntr.nl/tuinderlusten/en.html)
+
+Active history:
+
+- [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/volume/1/)
 - [Documenting Ferguson](http://digital.wustl.edu/ferguson/)
 - [Documenting the Now](https://www.docnow.io/)
+
+Digital collections:
+
+- [Plateau Peoples' Web Portal](https://plateauportal.libraries.wsu.edu/)
 - [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/)
 - [Slave Societies Digital Archive](https://www.slavesocieties.org/)
 - [The Real Faces of White Australia](http://invisibleaustralians.org/faces/)
-- [Mapping Massacres](https://c21ch.newcastle.edu.au/colonialmassacres/map.php)
-- [Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/volume/1/)
-- [Viral Texts](https://viraltexts.org/), mapping periodical reprinting 19th cent.
-- [Chinatown Sound Map](http://chinatownsoundmap.com/about/)
-- [Frankenbook](https://www.frankenbook.org/)
+- [RE Activate Mama Pina's Cookbook](http://www.criticalmediartstudio.com/RemediatingMamaPina/)
 - [DIY History](https://diyhistory.lib.uiowa.edu/), crowd/student transcription.
-- [Topic Modeling Martha Ballard's Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)
-- [Mining the Dispatch](http://dsl.richmond.edu/dispatch/), topic modeling fugitive slave ads from the Richmond Dispatch
+- [Digital Archaeological Archive of Comparative Slavery (DAACS)](https://www.daacs.org/)
 - [Coins](https://uclab.fh-potsdam.de/coins/)
-- [The World's Writing Systems](http://www.worldswritingsystems.org/)
-- [Historic Tale Construction Kit](https://htck.github.io/bayeux/)
 
 -----------------------
 
