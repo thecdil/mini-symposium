@@ -4,9 +4,9 @@
 
 ## Objectives
 
-- Critical web literacy: `view-source`, markup languages, and Markdown.
-- Critical understanding of collections as data.
-- Literacy with digital files, data, and metadata.
+- Critical web literacy: `view-source`, markup languages, HTML basics.
+- Introduce GitHub and Markdown.
+- Introduce collections as data.
 
 # Outline:
 
@@ -16,7 +16,7 @@
 
 ## The Web
 
-- URLs (get code from servers): `https://example.com/about?key=value#anchor`
+- URLs: get code from servers, `https://example.com/about?key=value#anchor`
 - Code: the web is made up of HTML, CSS, and JS (*mostly*), that is rendered in your browser.
     - "View page source" (right click any page), `view-source:`
     - "Inspect" (right click option) / Developer Tools (Ctrl + Shift + I)
@@ -45,23 +45,6 @@ Elements are represented by **tags** using point brackets, `<tag></tag>` that ca
     - Find an image on the web (right click "view image")
     - Random image placeholder: [Picsum](https://picsum.photos/) add width and height like `https://picsum.photos/200/300`
 
-Example HTML doc:
-
-```
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Example HTML</title>
-    </head>
-    <body>
-        <h1>Header One</h1>
-        <p>Some text in a paragraph.</p>
-        <p>A link to <a href="https://github.com/thecdil/mini-symposium">Symposium</a>.</p>
-        <img src="https://www.lib.uidaho.edu/media/digital/small/ott.jpg">
-    </body>
-</html>
-```
-
 **CSS (presentation / style):**
 
 *Cascading Style Sheets* can be added to an HTML document in a `<style>` element, or loaded as a separate `.css` file.
@@ -76,7 +59,7 @@ Example HTML doc:
 - Add stuff: `<div id="example"></div>` / `var test = document.getElementById("example"); example.innerHTML = "Some example text.";`
 - Click: `<button id="btn">Click Me</button>` / `var btn = document.getElementById("btn"); btn.addEventListener("click", function() { example.innerHTML = "You clicked the button!"; });`
 
-Full example:
+Example HTML doc:
 
 ```
 <!DOCTYPE html>
@@ -92,8 +75,9 @@ Full example:
         <h1>Header One</h1>
         <p>Some text in a paragraph.</p>
         <p>A link to <a href="https://github.com/thecdil/mini-symposium">Symposium</a>.</p>
+        <p class="big">Test</p>
         <div id="example"></div>
-        <button id="btn">Click Me</button>
+        <p><button id="btn">Click Me</button></p>
         <img src="https://www.lib.uidaho.edu/media/digital/small/ott.jpg">
         <script>
             var example = document.getElementById("example"); 
@@ -105,16 +89,16 @@ Full example:
 </html>
 ```
 
-## Markdown
+## Markdown on GitHub
 
 > Demo to introduce Markdown and GitHub
 
 - Log into [GitHub](https://gist.github.com/)
 - Create a repository (click `+` button in upper right)
-- Create a file in the repository
+- Create a file in the repository (click "Create new file")
 - Give it a filename with extension `.md`
 - Write some markdown
-- Commit (you are using Git)
+- Commit (you are using Git!)
 
 - [Markdown basics](https://evanwill.github.io/write-md/content/2-markdown.html)
 - [Markdown in a minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
@@ -136,30 +120,24 @@ Full example:
     - e.g. Miriam Posner, [How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/) 
     - Sustainability? (how many dead projects have you seen?)
 3. Share your favorite example 
-    - GitHub Issue in mini-symposium repository
-
-# Additional Resources 
-
-Workshops/tutorials: 
-
-- [w3schools](https://www.w3schools.com/) (reference, tutorials, "try it" examples)
-- [MDN web docs](https://developer.mozilla.org/en-US/) (good reference source)
-- [Programming Historian](https://programminghistorian.org/)
+    - [GitHub Issue in mini-symposium repository](https://github.com/thecdil/mini-symposium/issues/1)
 
 ## DH Projects
 
 Texts:
 
 - [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/) - classical texts since before the internet!
-- [Walt Whitman Archive](https://whitmanarchive.org/), [Melville Electronic Library](https://melville.electroniclibrary.org/), [Rossetti Archive](http://www.rossettiarchive.org/), [William Blake Archive](http://www.blakearchive.org/), [Newton Project](http://www.newtonproject.ox.ac.uk/) - traditionally canonical authors supported big projects, interesting opportunity to bring together published and archival materials with multimedia and scholarly content.
+- [Walt Whitman Archive](https://whitmanarchive.org/), [Melville Electronic Library](https://melville.electroniclibrary.org/), [Rossetti Archive](http://www.rossettiarchive.org/), [William Blake Archive](http://www.blakearchive.org/), [Newton Project](http://www.newtonproject.ox.ac.uk/) - traditionally canonical authors supported big projects, interesting opportunity to bring together published and archival materials with multimedia and scholarly content. [Willa Cather Archive](https://cather.unl.edu/) is a recent, very complete example.
 - [Eighteenth-Century Poetry Archive](https://www.eighteenthcenturypoetry.org/) - many projects gather together a thematic corpus of text.
 - [Women Writers Project](https://wwp.northeastern.edu/) - some projects seek increase visibility of hidden creators.
-- [Digital Thoreau](https://digitalthoreau.org/) - new ways to open up critical editions.
+- [Digital Thoreau](https://digitalthoreau.org/), [Petrarchive](http://dcl.slis.indiana.edu/petrarchive/index.php) - new ways to open up critical editions.
+- [Reading Like a Victorian](http://victorianserialnovels.org/) - represent original serial access to novels.
 - [Frankenbook](https://www.frankenbook.org/) - collaborative reading text.
 - [Visual Haggard](http://www.visualhaggard.org/) - extracting illustrations rather than text.
 
 Digging into the archives:
 
+- [Collective Biographies of Women](http://cbw.iath.virginia.edu/index.php) 
 - [London Lives](https://www.londonlives.org/)
 - [Mining the Dispatch](http://dsl.richmond.edu/dispatch/) - topic modeling fugitive slave ads from the Richmond Dispatch.
 - [Joods Monument](https://www.joodsmonument.nl/)
@@ -202,6 +180,16 @@ Digital collections:
 - [DIY History](https://diyhistory.lib.uiowa.edu/), crowd/student transcription.
 - [Digital Archaeological Archive of Comparative Slavery (DAACS)](https://www.daacs.org/)
 - [Coins](https://uclab.fh-potsdam.de/coins/)
+
+# Additional Resources 
+
+- Miriam Prosner, ["Humanities Data: A Necessary Contradiction" (2015)](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
+
+Workshops/tutorials: 
+
+- [w3schools](https://www.w3schools.com/) (reference, tutorials, "try it" examples)
+- [MDN web docs](https://developer.mozilla.org/en-US/) (good reference source)
+- [Programming Historian](https://programminghistorian.org/)
 
 -----------------------
 
