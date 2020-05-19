@@ -133,6 +133,12 @@ Markdown can be used any where on GitHub, in popular static site generators such
 3. Share your favorite example 
     - [GitHub Issue in mini-symposium repository](https://github.com/thecdil/mini-symposium/issues/1)
 
+## Reading for Tommorrow 
+
+- <http://kindred.stanford.edu/notes.html?section=originating>
+- <http://kindred.stanford.edu/notes.html?section=designing>
+- <http://kindred.stanford.edu/notes.html?section=developing>
+
 ## DH Projects
 
 Texts:
