@@ -16,21 +16,22 @@
 
 ## The Web
 
-- URLs: get code from servers, `https://example.com/about?key=value#anchor`
-- Code: the web is made up of HTML, CSS, and JS (*mostly*), that is rendered in your browser.
+- **Network:** a network is infrastructure for computers to communicate, *The Web* is a network of networks!
+- **URLs:** web addresses that request code from servers, `https://subdomain.example.com/about/index.html?key=value#anchor`
+- **Code:** the web is made up of HTML, CSS, and JS (*mostly*), that is rendered in your browser.
     - "View page source" (right click any page), `view-source:`
     - "Inspect" (right click option) / Developer Tools (Ctrl + Shift + I)
     - "Plain text" ([file types note](https://evanwill.github.io/_drafts/notes/file-types.html))
 
 ## HTML Basics
 
-> Demo using [JSFiddle](https://jsfiddle.net/)
+> Demo using [JSFiddle](https://jsfiddle.net/) to introduce the fundamental material of the web.
 
 **HTML (document / content / structure):**
 
 *Hypertext Markup Language* is a ["markup language"](https://en.wikipedia.org/wiki/Markup_language) originally designed to describe documents for the web.
 HTML is made up of a set of standard **elements** used to structure a web page and introduce features such as images.
-Elements are represented by **tags** using point brackets, `<tag></tag>` that can be nested hierarchically.
+Elements are represented by **tags** using point brackets, `<tag>content</tag>` that can be nested hierarchically.
 
 - Doctype declaration: `<!DOCTYPE html>` (officially tells browser that it is an HTML file)
 - Root element: `<html></html>` (all elements of a web page are nested inside the root element)
@@ -56,7 +57,7 @@ Elements are represented by **tags** using point brackets, `<tag></tag>` that ca
 
 *JavaScript* can be added to an HTML document in a `<script>` element, or loaded as a separate `.js` file
 
-- Add stuff: `<div id="example"></div>` / `var test = document.getElementById("example"); example.innerHTML = "Some example text.";`
+- Add stuff: `<div id="example"></div>` / `var example = document.getElementById("example"); example.innerHTML = "Some example text.";`
 - Click: `<button id="btn">Click Me</button>` / `var btn = document.getElementById("btn"); btn.addEventListener("click", function() { example.innerHTML = "You clicked the button!"; });`
 
 Example HTML doc:
@@ -89,27 +90,37 @@ Example HTML doc:
 </html>
 ```
 
-## Markdown on GitHub
+## GitHub 
 
-> Demo to introduce Markdown and GitHub
+[GitHub](https://github.com/) is a cloud [Git](https://git-scm.com/) repository hosting service with builtin features for collaboration and project management.
+Think of it as Google Drive for code with super robust "track changes" baked in.
 
-- Log into [GitHub](https://gist.github.com/)
+It is the most popular platform for developing and sharing code from enterprise projects, to hands-on learning, to academic projects.
+Thus, it is helpful to get familiar with the web interface so that you can take part in this community.
+
+One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/), a free static web hosting service, great for learning, messing around, and publishing your work.
+
+## Markdown 
+
+> Demo to introduce Markdown and GitHub.
+
+[Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web.
+A handful of simple conventions translate into the basic HTML elements, making it quick to write and edit. 
+Markdown can be used any where on GitHub, in popular static site generators such as Jekyll, and to create documents using [Pandoc](https://pandoc.org/) or a Markdown editor.
+
+- Log into [GitHub](https://github.com/)
 - Create a repository (click `+` button in upper right)
 - Create a file in the repository (click "Create new file")
 - Give it a filename with extension `.md`
-- Write some markdown
-- Commit (you are using Git!)
-
-- [Markdown basics](https://evanwill.github.io/write-md/content/2-markdown.html)
-- [Markdown in a minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
-- [What is GitHub](https://evanwill.github.io/mini-web-crash-course/content/1-intro.html)
+- Write some Markdown in the editor (see [Markdown basics](https://evanwill.github.io/write-md/content/2-markdown.html))
+- Scroll down to Commit (you are using Git!)
 
 ## Collections as Data
 
 - [documents as data](http://history-lab.org/images/new-paper-stack.png) (from [History Lab](http://history-lab.org/)), using the lens of "data" to rethink traditional humanities research
 - "Collections as data" are "readily open to computation", [The Santa Barbara Statement on Collections as Data](https://collectionsasdata.github.io/statement/)
 - Philosophy for: research questions; collection planning; platform design
-- [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh)
+- [CollectionBuilder](https://collectionbuilder.github.io/)
 
 # Follow up Activity
 
@@ -183,7 +194,7 @@ Digital collections:
 
 # Additional Resources 
 
-- Miriam Prosner, ["Humanities Data: A Necessary Contradiction" (2015)](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
+- Miriam Posner, ["Humanities Data: A Necessary Contradiction" (2015)](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
 Workshops/tutorials: 
 
