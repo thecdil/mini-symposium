@@ -27,8 +27,8 @@
     - developers
 - interpretation (+1)
     - it's all interpretation
-    - and then there's the special intrepetation
-    - but their is also a distinction be
+    - and then there's the special interpretation
+    - but there is also a distinction be
 - users 
     - now
     - future
@@ -53,6 +53,7 @@ Discuss Kindred Britain and the three essays
 
 
 ### Web-based tools
+
 - [Knightlab tools](https://knightlab.northwestern.edu/projects/)
     - [TimelineJS](https://timeline.knightlab.com/) (simple timeline connected to Google Sheets)
     - [StoryMapJS](https://storymap.knightlab.com/) (basic slideshow connected to a map, set up using a web based editor) [advanced setup](https://storymap.knightlab.com/advanced/)
