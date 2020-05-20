@@ -1,4 +1,4 @@
-# Digital Publishing: Scalar and Story Maps
+# Digital Project Components and Platforms
 
 > Wednesday, May 20th, 10:00am - 12:00pm, CDIL Zoom.
 
@@ -61,6 +61,8 @@
 
 Data --> Information --> Knowledge --> Wisdom
 
+    - Ok, so what's content? 
+
 - **development** to process the data
     - build relationships
     - standardize for use
@@ -95,6 +97,12 @@ Discuss Kindred Britain and the three essays
 - [Nicholas Jenkins](http://web.stanford.edu/~njenkins/)
 - [Elijah Meeks](https://twitter.com/Elijah_Meeks)
 - [Scott Murray 'wrote the book'](https://alignedleft.com/work/d3-book-2e)
+
+
+### Questions for the Fellows
+
+- What's your content? 
+
 
 ### Some other projects of note
 
@@ -139,15 +147,22 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 ## Story Maps 
 
-
-[New StoryMaps](https://storymaps.arcgis.com/)
-[CLASSIC Flavor](https://storymaps-classic.arcgis.com/en/)
+- [New StoryMaps](https://storymaps.arcgis.com/)
+- [CLASSIC Flavor](https://storymaps-classic.arcgis.com/en/)
 - [Moving to new StoryMaps](https://storymaps.arcgis.com/stories/472a6ddd582b40b58a5a6af2c30a4573)
 
 - [Uidaho GIS Home](https://uidaho.maps.arcgis.com/home/index.html)
 - [Training Central](https://www.esri.com/training/)
 
 - [Story Maps and the Digital Humanities: A Collection of Story Maps about History, Culture, Literature, and the Arts](https://collections.storymaps.esri.com/humanities/)
+    - [Whole Earth Vision](https://storymaps.esri.com/stories/2016/humboldt/index.html)
+    - [Mapping Hemingway](https://uidaho.maps.arcgis.com/apps/MapJournal/index.html?appid=8372c1acd90749a489cd937795d788a5)
+    - StoryMap Architecture
+        - [Placing Oral Histories](https://storymaps.esri.com/stories/2017/oral-histories/index.html)
+        - [Geography of Hip Hop](https://storymaps.esri.com/stories/2017/hip-hop/)
+
+
+[a nice slide prez from last year re: old StoryMaps](https://docs.google.com/presentation/d/19B5DZQox3AfG03Kz1400QpMIwDdQ9l0hWOHvz912K48/edit?usp=sharing)
 
 - Examples from presentation:
     - http://wsuniv.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=4fc4c009f5904b6b8510298c8dfad5f9
@@ -159,10 +174,10 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
     - https://storymaps.esri.com/stories/2018/bishkek-tour/
     - https://nation.maps.arcgis.com/apps/MapSeries/index.html?appid=829a63a3553048fa8025993a238fad78
 
-[Mt Devin](https://arcg.is/LDbH9)
-
 
 # Follow up Activity
+
+[Mt Devin](https://arcg.is/LDbH9)
 
 - Screw Around with Story Maps
     - Make Your Own Story Map, using either Classic or New Templates
