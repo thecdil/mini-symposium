@@ -14,8 +14,6 @@
 
 # Outline: 
 
-Follow along with the day's activities using [Text as Data](https://owikle.github.io/text-as-data/) workshop site
-
 ## Text Analysis:
 
 *To follow along see the [Text as Data](https://owikle.github.io/text-as-data/) workshop site*
@@ -28,7 +26,7 @@ Follow along with the day's activities using [Text as Data](https://owikle.githu
 - Word frequency and concordance with [Voyant Tools](https://voyant-tools.org/)
 - Visualizing context with [WordTree](https://www.jasondavies.com/wordtree/)
 
-## Machine Learning
+## Machine Learning:
 
 *To follow along see the [Topic Modeling](https://owikle.github.io/topicmodeling/) workshop site*
 - Topic Modeling in-browser with [jsLDA](https://mimno.infosci.cornell.edu/jsLDA/)
@@ -41,8 +39,8 @@ Follow along with the day's activities using [Text as Data](https://owikle.githu
 ## Additional Readings
 
 - Ted Underwood and Jordan Sellers, ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). 
-    - article explicitly explains the research process, from collecting/selecting data to analysis. Published as a draft with more content, questions, and illustrations than are allowed in a traditional article. Also published traditionally as, Jordan Sellers and Ted Underwood, "The Longue Durée of Literary Prestige", MLQ 77:3 (2016). Additionally, a GitHub repository shares the code necessary to reproduce the analysis, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015).
-- Extra: [Cultural Analytics Now](http://post45.research.yale.edu/sections/contemporaries/cultural-analytics-now/), ed. Dan Sinykin, *post45* (2019).
+    - Explicitly explains the text analysis research process, from collecting/selecting data to analysis. Published as a draft with more content, questions, and illustrations than are allowed in a traditional article. Also published traditionally as, Jordan Sellers and Ted Underwood, "The Longue Durée of Literary Prestige", MLQ 77:3 (2016). Additionally, a GitHub repository shares the code necessary to reproduce the analysis, [paceofchange](https://github.com/tedunderwood/paceofchange) (2015).
+- [Cultural Analytics Now](http://post45.research.yale.edu/sections/contemporaries/cultural-analytics-now/), ed. Dan Sinykin, *post45* (2019).
     - A collection of articles critically evaluating the current state of quantitative methods in DH, particularly literary studies. First article is a review of Underwood's most recent book, *Distant Horizons*.
 
 -----------------------
