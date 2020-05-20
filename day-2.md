@@ -24,11 +24,12 @@
         - "a difference that makes a difference" 
     - What's the difference?
         - "the map is not the territory"
+        - curation is often the beginning of a project
 
 [Gregory Bateson](https://www.informationphilosopher.com/solutions/scientists/bateson/)
 [The Original Article/talk](https://www.informationphilosopher.com/solutions/scientists/bateson/Bateson_Difference.pdf)
 
-![graph of data info knowledge wisdom](http://www.cvev.org/wp-content/uploads/2016/04/Difference-between-data-information-and-knowledge.jpg)
+Data --> Information --> Knowledge --> Wisdom
 
 - **development** to process the data
     - build relationships
@@ -147,7 +148,10 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
     - https://storymaps.esri.com/stories/2018/bishkek-tour/
     - https://nation.maps.arcgis.com/apps/MapSeries/index.html?appid=829a63a3553048fa8025993a238fad78
 
+# Follow up Activity
 
+- Screw Around with Story Maps
+    - 
 
 
 
