@@ -16,7 +16,7 @@
 
 ## Text Analysis:
 
-*To follow along see the [Text as Data](https://owikle.github.io/text-as-data/) workshop site*
+> To follow along see the [Text as Data](https://owikle.github.io/text-as-data/) workshop site
 
 **Prepping your text**
 - Finding and preparing text for analysis
@@ -28,13 +28,14 @@
 
 ## Machine Learning:
 
-*To follow along see the [Topic Modeling](https://owikle.github.io/topicmodeling/) workshop site*
+> To follow along see the [Topic Modeling](https://owikle.github.io/topicmodeling/) workshop site
 - Topic Modeling in-browser with [jsLDA](https://mimno.infosci.cornell.edu/jsLDA/)
 
 **Exploring big data**
 - Google Books [Ngram Viewer](https://books.google.com/ngrams)
 - HathiTrust [Research Center Portal](https://sharc.hathitrust.org)
 
+# Follow up Activity
 
 ## Additional Readings
 
