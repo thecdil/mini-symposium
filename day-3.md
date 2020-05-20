@@ -9,7 +9,7 @@
 
 ## Prep
 
-- If you haven't already, **download and install [Visual Studio Code](https://code.visualstudio.com/)
+- If you haven't already, **download and install [Visual Studio Code](https://code.visualstudio.com/)**
 
 **Read the following:**
 - Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
