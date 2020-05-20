@@ -11,43 +11,15 @@
 
 ## Outline: 
 
+### Discussion of DH Projects
+
+- What did you see? 
+- source, data, tools, outputs, people (can you see these?)
+- Talk about what you chose
+
 ### Telling/Writing/Making with Data
 
 #### Some Common Components of Digital Projects*
-
-***Process***
-
-- **data** 
-    - What is data? (Territory)
-        - the given
-    - What is information? (Map)
-        - "a difference that makes a difference" 
-    - What's the difference?
-        - "the map is not the territory"
-        - curation is often the beginning of a project
-
-[Gregory Bateson](https://www.informationphilosopher.com/solutions/scientists/bateson/)
-[The Original Article/talk](https://www.informationphilosopher.com/solutions/scientists/bateson/Bateson_Difference.pdf)
-
-Data --> Information --> Knowledge --> Wisdom
-
-- **development** to process the data
-    - build relationships
-    - standardize for use
-
-- **workflows** to make data work with the design
-    - data to information
-    - information to standard
-
-- **design** to visualize and make accessible the data
-    - information architecture
-    - ux/ui
-    - information visualization
-
-- **interpretation** (+1)
-    - it's all interpretation
-    - and then there's the special interpretation
-    - but their is also a distinction be
 
 ***Community***
 
@@ -73,7 +45,43 @@ Data --> Information --> Knowledge --> Wisdom
 - ***adminstrative support***
     - essentially: permission for the funding and the space
 
-All these components can tell different stories about the project. The collaborative nature of them, 
+***Process***
+
+- **data** 
+    - What is data? (Territory)
+        - the given
+    - What is information? (Map)
+        - "a difference which makes a difference" 
+    - What's the difference?
+        - "the map is not the territory"
+        - curation is often the beginning of a project
+
+[Gregory Bateson](https://www.informationphilosopher.com/solutions/scientists/bateson/)
+[The Original Article/talk](https://www.informationphilosopher.com/solutions/scientists/bateson/Bateson_Difference.pdf)
+
+Data --> Information --> Knowledge --> Wisdom
+
+- **development** to process the data
+    - build relationships
+    - standardize for use
+
+- **workflows** to make data work with the design
+    - data to information
+    - information to standard
+
+- **design** to visualize and make accessible the data
+    - information architecture
+    - ux/ui
+    - information visualization
+
+- **interpretation** (+1)
+    - it's all levels of interpretation
+    - but there is also a contextual interpretation that seems most "scholarly"
+        - funding agencies pay attention
+        - tenure processes
+
+
+All these components can tell different stories about the project. As we saw with our three 
 
 ### Kindred Britain
 
@@ -114,7 +122,6 @@ Discuss Kindred Britain and the three essays
 
 - [From NYU](https://guides.nyu.edu/dighum/tools)
 - [From UNC Chapel Hill](https://cdh.unc.edu/resources/tools/)
-
 
 ### Digital Collection and Exhibit Platforms Introductions
 - [Omeka](https://omeka.org/) (popular CMS for exhibits and teaching. Classroom example [The History Harvest](http://historyharvest.unl.edu/). See [Educators guide](http://info.omeka.net/omeka-net-help/use-case-educators/), [free hosted version](http://www.omeka.net/))
