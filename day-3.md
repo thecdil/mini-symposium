@@ -7,8 +7,11 @@
 - Critical understanding of text as data.
 - Explore text analysis, machine learning, and visualization.
 
-## Readings
+## Prep
 
+- If you haven't already, **download and install [Visual Studio Code](https://code.visualstudio.com/)
+
+**Read the following:**
 - Ted Underwood, ["Seven Ways Humanists are Using Computers to Understand Text"](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015). (intro overview of types of computational analysis)
 - Matt Jockers, [The LDA Buffet is Now Open; or, Latent Dirichlet Allocation for English Majors](http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/) (Topic Modeling "Fable")
 
