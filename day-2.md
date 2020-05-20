@@ -83,7 +83,7 @@ Data --> Information --> Knowledge --> Wisdom
         - tenure processes
 
 
-All these components can tell different stories about the project. As we saw with our three 
+All these components can tell different stories about the project. As we see with the three essays from Kindred Britain, projects can be described from many different vantages. 
 
 ### Kindred Britain
 
@@ -102,7 +102,11 @@ Discuss Kindred Britain and the three essays
 ### Questions for the Fellows
 
 - What's your content? 
-
+- What might you learn from breaking out the content further? 
+    - Thinking like: a designer, a developer, an originator
+- What sort of help do you need? 
+- Are your initial ideas possible? What sort of compromises are you willing to make? 
+- How do you want your project to look/feel/work in 5 years? 
 
 ### Some other projects of note
 
