@@ -104,6 +104,7 @@ Discuss Kindred Britain and the three essays
     - [Explorer](http://photogrammar.yale.edu/labs/crossfilter/california/)
 - [American Panorama](http://dsl.richmond.edu/panorama/)
     - [Canals](http://dsl.richmond.edu/panorama/canals/)
+    - [Stamen (design studio)](https://stamen.com/)
 - [Torn Apart](http://xpmethod.plaintext.in/torn-apart/volume/1/)
     - [Volume 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
 
@@ -133,8 +134,6 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 ### Hosting and Content Management Systems
 - [WordPress](https://wordpress.org/) (most common CMS in the world, runs 30%+ of the web. Powerful web-based admin interface, user authentication, media management, comments. [Free hosted version](https://wordpress.com/). Profile example [Adam Sowards](http://adamsowards.net/))
 - [Drupal](https://www.drupal.org/) (powerful CMS, powers other platforms such as Mukurtu and [Islandora](https://islandora.ca/). See Quinn Dombrowski, [*Drupal for Humanists*](http://drupal.forhumanists.org/))
-
-
 
 ## CDIL 
 
