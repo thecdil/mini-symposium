@@ -85,18 +85,16 @@ All these components can tell different stories about the project. As we saw wit
 
 ### Kindred Britain
 
-- http://kindred.stanford.edu/notes.html?section=originating
-- http://kindred.stanford.edu/notes.html?section=designing
-- http://kindred.stanford.edu/notes.html?section=developing
+- [originating](http://kindred.stanford.edu/notes.html?section=originating) | [designing](http://kindred.stanford.edu/notes.html?section=designing) | [developing](http://kindred.stanford.edu/notes.html?section=developing)
 
 - [Kindred Britain](http://kindred.stanford.edu/#)
     - [Paltrow to Shakespeare](http://kindred.stanford.edu/#/path/full/none/none/I13754/I27325/)
 
 Discuss Kindred Britain and the three essays
 
-[Nicholas Jenkins](http://web.stanford.edu/~njenkins/)
-[Elijah Meeks](https://twitter.com/Elijah_Meeks)
-[Scott Murray 'wrote the book'](https://alignedleft.com/work/d3-book-2e)
+- [Nicholas Jenkins](http://web.stanford.edu/~njenkins/)
+- [Elijah Meeks](https://twitter.com/Elijah_Meeks)
+- [Scott Murray 'wrote the book'](https://alignedleft.com/work/d3-book-2e)
 
 ### Some other projects of note
 
@@ -107,7 +105,6 @@ Discuss Kindred Britain and the three essays
     - [Stamen (design studio)](https://stamen.com/)
 - [Torn Apart](http://xpmethod.plaintext.in/torn-apart/volume/1/)
     - [Volume 2](http://xpmethod.plaintext.in/torn-apart/volume/2/)
-
 
 ### Web-based tools
 - [Knightlab tools](https://knightlab.northwestern.edu/projects/)
@@ -139,8 +136,16 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
 
 [The Many Narratives of CDIL](https://docs.google.com/presentation/d/1WEcmizXvF7KmffJ1g6dt2Z8o2bT6uTK98rToYXJT9Ek/edit?usp=sharing)
 
+
 ## Story Maps 
-- [Story Maps slides](https://docs.google.com/presentation/d/19B5DZQox3AfG03Kz1400QpMIwDdQ9l0hWOHvz912K48/edit?usp=sharing)
+
+
+[New StoryMaps](https://storymaps.arcgis.com/)
+[CLASSIC Flavor](https://storymaps-classic.arcgis.com/en/)
+- [Moving to new StoryMaps](https://storymaps.arcgis.com/stories/472a6ddd582b40b58a5a6af2c30a4573)
+
+- [Uidaho GIS Home](https://uidaho.maps.arcgis.com/home/index.html)
+- [Training Central](https://www.esri.com/training/)
 
 - [Story Maps and the Digital Humanities: A Collection of Story Maps about History, Culture, Literature, and the Arts](https://collections.storymaps.esri.com/humanities/)
 
@@ -154,10 +159,24 @@ Web Portal](https://plateauportal.libraries.wsu.edu/). See also [TK Labels](http
     - https://storymaps.esri.com/stories/2018/bishkek-tour/
     - https://nation.maps.arcgis.com/apps/MapSeries/index.html?appid=829a63a3553048fa8025993a238fad78
 
+[Mt Devin](https://arcg.is/LDbH9)
+
+
 # Follow up Activity
 
 - Screw Around with Story Maps
-    - 
+    - Make Your Own Story Map, using either Classic or New Templates
+        - Do it quickly, using whatever is at hand
+        - Try out different features and modes
+        - Import others' maps and photos (easier with CLASSIC)
+    - Make your map sharable by adjusting the privacy settings
+    - Make a new Issue that links to your StoryMap
+        - Go to [Issues](https://github.com/thecdil/mini-symposium/issues)
+        - Click green button to add new issue.
+        - tag @dcnb in each
+        - make a short list (in Markdown!) with a few observations on your processs
+        -[example](https://github.com/thecdil/mini-symposium/issues/2)
+
 
 
 
