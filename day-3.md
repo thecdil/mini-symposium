@@ -40,6 +40,15 @@
 
 # Follow up Activity
 
+**Do your own text mining**
+Choose one of the tools we talked about today and spend some time exploring a text of your choice. 
+Maybe you'd like to analyze your own writing, one of the corpora provided today, or a particular novel that you find on one of the text repository sites that we've talked about.
+
+After you've finished exploring, reply to [this GitHub Issue](https://github.com/thecdil/mini-symposium/issues/3) with your thoughts on the following:
+- What was your rationale for choosing the text analysis tool that you did?
+- What judgment calls did you have to make (such as choosing stopwords, number of topics produced, scope of collection, etc.), and how did they affect your use of your results as evidence?
+- Did you discover any insights? Limitations? Frustrations?
+
 ## Additional Readings
 
 - Ted Underwood and Jordan Sellers, ["How Quickly Do Literary Standards Change?"](https://figshare.com/articles/How_Quickly_Do_Literary_Standards_Change_/1418394). 
