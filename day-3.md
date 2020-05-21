@@ -35,7 +35,8 @@
 - Topic Modeling in-browser with [jsLDA](https://mimno.infosci.cornell.edu/jsLDA/)
 
 **Exploring big data**
-- Google Books [Ngram Viewer](https://books.google.com/ngrams)
+- Google Books [Ngram Viewer](https://books.google.com/ngrams) (+ [how to use it](https://books.google.com/ngrams/info#))
+    - Graphing composers: `Bach,Beethoven,Mozart,Corelli,Handel,Wagner`
 - HathiTrust [Research Center Portal](https://sharc.hathitrust.org)
 
 # Follow up Activity
